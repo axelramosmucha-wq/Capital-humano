@@ -1,0 +1,2 @@
+# Capital-humano
+/Aplicativo_Capital_Humano_UNHEVAL_Ingenieria_Industrial
